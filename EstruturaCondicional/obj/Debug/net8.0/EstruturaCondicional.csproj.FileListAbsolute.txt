@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.exe
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\refint\EstruturaCondicional.dll
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\ref\EstruturaCondicional.dll
